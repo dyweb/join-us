@@ -1,20 +1,5 @@
 # 东岳招新
 
----
-layout: post
-title: "Docker与Hyper"
-description: 
-headline:
-modified: 2016-05-20
-category: 
-tags: [docker]
-imagefeature:
-mathjax: false
-chart:
-comments: true
-featured: true
----
-
 每逢考试就要作死，谁都拦不住，还有大概一个小时就要去考国际经济法了，但是忽然想写一篇关于Docker的文章，从开始接触Docker到现在，也有大概两三个月的时间了，这段时间里比较多的时间花在了Docker和Golang上，有一些自己的看法。这篇文章不是介绍向，是随笔向，嗯。
 
 ## Docker
