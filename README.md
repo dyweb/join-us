@@ -1,6 +1,6 @@
 # 东岳招新
 
-![poster](images/poster2.png)
+[![poster](images/poster2.png)](http://tongqu.me/act/9936)
 
 ## 东岳是谁？
 
@@ -48,6 +48,7 @@ Write the code. Change the world.
 加分项
 
 - 知道 Web 开发是怎么回事
+- 玩过 Objective-C / Swift
 
 无条件录取
 
@@ -102,4 +103,6 @@ Write the code. Change the world.
 
 欢迎和我们一起来 hack the world.
 
- \>\> [Join us](http://tongqu.me/act/9936) <<
+\>\> [Join us](http://tongqu.me/act/9936) <<
+
+联系我们：mailto:join@dongyue.io
