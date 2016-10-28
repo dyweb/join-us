@@ -105,4 +105,4 @@ Write the code. Change the world.
 
 \>\> [Join us](http://tongqu.me/act/9936) <<
 
-联系我们：mailto:join@dongyue.io
+联系我们：join@dongyue.io
