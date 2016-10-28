@@ -1,6 +1,6 @@
 # 东岳招新
 
-每逢考试就要作死，谁都拦不住，还有大概一个小时就要去考国际经济法了，但是忽然想写一篇关于Docker的文章，从开始接触Docker到现在，也有大概两三个月的时间了，这段时间里比较多的时间花在了Docker和Golang上，有一些自己的看法。这篇文章不是介绍向，是随笔向，嗯。
+![poster](images/poster2.png)
 
 ## 东岳是谁？
 
@@ -8,24 +8,85 @@
 
 ## 团队介绍
 
-不过最近在Docker之外，被一个叫做Hyper Container的东西吸引了。他们的主页是[www.hyper.sh](https://www.hyper.sh/)，是北京的一家创业公司的产品的样子。这家公司做的[hyperd](https://github.com/hyperhq/hyperd)是一个在虚拟机上运行Docker容器的东西，跟一般意义上的，在虚拟机上运行一个Docker Daemon然后再运行容器的概念不同。
+* ### Web组
 
-<figure>
-	<img src="http://gaocegege.com/images/docker/hyper.png" alt="hyper架构图" height="500" width="500">
-	<figcaption>hyper架构图</figcaption>
-</figure>
+  我们时刻关注着前后端的最新技术Vue.js, NodeJS, MySQL
+  
+  招新要求:
+  
+  大一：
+  - 对 Web 开发和前沿技术感兴趣，没写过代码也没关系
+  - 愿意投入时间和精力
+  
+  大二：  
+  - 能够使用至少一种编程语言（会 JavaScript/Python/PHP 则更佳）
+  - 做过课内或课外的小型项目，或有过网站开发相关的尝试（请附上您的项目说明）
+  
+* ### Android组
 
-其实现在我也不是太理解他们做了什么事情，但是看架构图可以发现，跟Docker相比，他们有一点很大的不同，就是Daemon程序不是直接运行一个容器，而是先启一个Instance，也就是虚拟机，然后在这个虚拟机里运行一个Pod，嗯对，在他们的概念里Pod是一等公民，跟k8s的概念比较类似。所以看上去是加了一层抽象，就是Pod，然后之前k8s只是简单地把Pod做成了share一个network的namespace，但其实Pod与Pod之间，没有什么隔离的感觉在里面，只是用传统的容器隔离的方式。而hyper做的事情感觉就是加了一层虚拟机，使得Pod之间做了传统的虚机来做隔离，这样在别的Pod导致内核崩溃的时候，其他Pod还能继续服务。
+  少年，我见你脑后冒着绿光跟我学写 Android 吧
+  
+  招新要求:  
+  - 对 Android 开发感兴趣  
+  - 关注新框架新技术  
+  - 有时间有精力  
+  
+* ### iOS组
 
-他们提出的概念是：
+  Write the code. Change the world.
+  
+  招新要求:  
+  基础    
+  - （必需）拥有 MacBook  
+  - 写过 C/C++/JavaScript
 
->HyperContainer is a Hypervisor-agnostic Docker Runtime that allows you to run Docker images on any hypervisor (KVM, Xen, etc.).
+  加分项  
+  - 知道 Web 开发是怎么回事
 
-通过他们自己实现的内核和一个start的服务，就可以在虚拟机里直接去根据Docker的Image来运行容器。也就是他们自己所说的`HyperContainer = Hypervisor + Kernel + Docker Image
-`。
+  无条件录取  
+  - 写过 iOS App
+  
 
-感觉概念挺有意思的，最开始是在知乎上一个[回答](https://www.zhihu.com/question/35412725/answer/101715150)上知道了这样一个东西，然后就去看了看，还没有深入地去了解，等到毕设做完有时间的话再去看看吧。
+* ### 设计组
 
-## 结
+  我们希望用设计去更好地解决问题，从而让世界更美好一点点
+  
+  招新要求：  
+  基础：
+  - 对设计感兴趣，愿意花时间去学ps,axure或其它设计工具并不断完善自己的设计结果
+  
+  加分：  
+  - 设计过海报、网页、app等（请附上相关作品和设计说明）
+  
+* ### MOOC & Open Source组
 
-哦，还有十几分钟就要考试了，愿原力与我同在。
+  让每个人可以自由的获得源码  
+  按照自己的意愿修改代码  
+  从而使得所有使用的人都受益  
+  这就是开源之美吧  
+  
+  招新要求:    
+  基础：  
+  1. 至少了解一门编程语言（如Java，c++等）  
+  2. 想为开源做贡献
+
+  加分：  
+  1. 自己维护有开源项目，或者是开源项目的contributor  
+  2. 熟悉一个或多个开源项目
+
+  注：因为OCC组是今年才设立的，所以各方面都不是很成熟，如果有大腿还望不吝赐教
+  
+* ### 产品组
+  
+  他们说:你啥都不会只能做产品咯。:neutral_face:  
+  小凡姐说:瞎讲，做了产品我啥都会了。:smirk:
+  
+
+
+## 加入我们
+
+  欢迎加入我们一起来 hack the world.
+  
+  点击》》 加入我们[join us](http://tongqu.me/act/9936)
+
+  
