@@ -45,7 +45,6 @@
 - 加分项
   - 知道 Web 开发是怎么回事;
   - 玩过 Objective-C / Swift.
-- 无条件录取
   - 写过 iOS App.
 
 ### 设计组
