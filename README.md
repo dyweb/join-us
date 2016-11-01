@@ -1,6 +1,6 @@
 # 东岳招新
 
-[![poster](images/poster2.png)](http://tongqu.me/act/9936)
+[![poster](images/poster2.png)](http://tongqu.me/act/13678)
 
 ## 东岳是谁?
 
@@ -87,6 +87,6 @@
 
 ## 加入我们
 
-\>\> [Join us](http://tongqu.me/act/9936) <<
+\>\> [Join us](http://tongqu.me/act/13678) <<
 
 Mail：join@dongyue.io
