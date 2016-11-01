@@ -89,4 +89,4 @@
 
 \>\> [Join us](http://tongqu.me/act/9936) <<
 
-Mail：`'oi.euygnod@nioj'[::-1]`
+Mail：join@dongyue.io
