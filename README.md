@@ -1,6 +1,6 @@
 # 东岳招新
 
-[![poster](images/poster2.png)](http://tongqu.me/act/13678)
+[![poster](images/poster2.png)](mailto:join@dongyue.io)
 
 ## 东岳是谁?
 
@@ -61,9 +61,12 @@
 
 招新要求:
 
-- 希望你热爱设计，并愿意花时间学习设计和不断提高自己
-- 如果会 Photoshop、Illustrator、Sketch 等设计软件请注明
-- 如果有海报、网页、App 等设计经验请附上相关作品
+- 基础要求
+  - 针对大一生和大二生
+  - 希望你热爱设计，并愿意花时间学习设计和不断提高自己
+- 加分项
+  - 掌握 Photoshop、Illustrator、Sketch 等任一项设计软件
+  - 有海报、网页、App 等设计经验，请附上作品和相关说明
 
 ### MOOC & Open Source 组
 
