@@ -98,7 +98,8 @@
 
 ## 加入我们
 
-<!--\>\> [JOIN US](http://tongqu.me/act/13678) << -->
+\>\> [JOIN US](https://tongqu.me/act/16676) << 
 
 Mail: join@dongyue.io
+
 Homepage: https://dongyueweb.com
